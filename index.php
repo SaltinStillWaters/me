@@ -15,7 +15,7 @@
     validate($_POST);
 ?>
 
-<form method="post" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>">
+<form method="post">
 
     <label for="email">Email:</label><br>
     <input type="text" id="email" name="email" value="<?php echo $contents['email']?>"><br>

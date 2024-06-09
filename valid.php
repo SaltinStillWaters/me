@@ -17,9 +17,7 @@
 <div class="container">
 <label style="font-size: 25px"><b>SOLDIER SUMMARY</b></label>
 <br><br>
-<?php
-    pr();
-?>
+
 <table class="table table-hover table-bordered">
         
     <?php
